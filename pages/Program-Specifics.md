@@ -4,7 +4,7 @@ Agenda:
 
 Day 0: Getting to know you and telling you what to expect
 
-° First row
+°First row
 1) Localization of syntax in the brain
 2) Neurobiology of syntax
 3) Relearning language
