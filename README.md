@@ -1,10 +1,5 @@
 # Hacking-Neuro-Syntax
 
-This is the workshop for Hacking-Neuro-Syntax
-
-
-# Hacking-Neuro-Syntax
-
 This is the workshop for Hacking-Neuro-Syntax.
 
 <div id="header" align="center">
