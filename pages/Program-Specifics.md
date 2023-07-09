@@ -6,9 +6,9 @@ Day 0: Getting to know you and telling you what to expect
 
 °First row
 1. [Localization of syntax in the brain](Localization-of-syntax-in-the-brain.md)
-2. Neurobiology of syntax
-3. Relearning language
-4. Experimental tools (EEG, VR, fMRI, nTMS) 
+2. [Neurobiology of syntax](Neurobiology-of-syntax.md)
+3. [Relearning language](Relearning-language.md)
+4. [Experimental tools (EEG, VR, fMRI, nTMS)](Experimental-tools-(EEG,VR,fMRI,nTMS).md) 
 
 °Second row
 
