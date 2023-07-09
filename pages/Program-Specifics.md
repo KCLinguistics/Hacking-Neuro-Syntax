@@ -1,4 +1,4 @@
-# Program Speficics
+# Program Specifics
 
 Agenda:
 
