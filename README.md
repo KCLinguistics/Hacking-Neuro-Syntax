@@ -29,3 +29,4 @@ This is the workshop for Hacking-Neuro-Syntax.
 1. [Introduction](pages/Introduction.md) 
 2. [Program Specifics](pages/Program-Specifics.md)
 3. [Your Participation](pages/Your-Participation.md)
+4. [Dates](pages/Dates.md)
