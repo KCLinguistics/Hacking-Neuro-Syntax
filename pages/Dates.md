@@ -4,6 +4,8 @@ Here are the dates for the program:
 
 Introduction to the program
 
+(Slides)[https://docs.google.com/presentation/d/1FStHgbgntIvNHox7q2oexG3Oh5Jclfw0CakvZnRt-Ig/edit?usp=sharing]
+
 # August 1, Tuesday, 18:30 PM IST
 
 Localization of Syntax in the brain
